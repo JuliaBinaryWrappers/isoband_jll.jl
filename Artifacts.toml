@@ -1,143 +1,160 @@
 [[isoband]]
 arch = "aarch64"
-git-tree-sha1 = "13fecb3016b65f528492cb08740e27719d952001"
+git-tree-sha1 = "6870b5d6818243935feea6438bb5ef3f8dc05021"
 os = "macos"
 
     [[isoband.download]]
-    sha256 = "849bd09d7f722305ea41f175742064a15cbe4e28e039c9180f2cb3717d976491"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "d780c0a6020a345f7fb3c6cef29514d3ebda16e6f207eb90919031c05bd2f7e7"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.aarch64-apple-darwin.tar.gz"
 [[isoband]]
 arch = "aarch64"
-git-tree-sha1 = "969183fe2ff4ac607e922951ba9e0a139ede910c"
+git-tree-sha1 = "3076fe2f001d1155e54cac4ea604fb1ed90fb204"
 libc = "glibc"
 os = "linux"
 
     [[isoband.download]]
-    sha256 = "fa9bb521671f55f9bd2645b02ac88fb91c6b57ffdc33b0c12c9bd2b5155868c7"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "5ee1615b5294171957ae6e927b46b90bc79a51169817a740cd9b2ccf079c1e54"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.aarch64-linux-gnu.tar.gz"
 [[isoband]]
 arch = "aarch64"
-git-tree-sha1 = "8cf3cabad0fc2ac70be1988d2e3c7122736ca990"
+git-tree-sha1 = "040a73b3127297e1e98f785d7e7962a06fedb67d"
 libc = "musl"
 os = "linux"
 
     [[isoband.download]]
-    sha256 = "0188a029e8225a185f8706b8fa2478091e7926fb3ac553632ceadb88193c1a5c"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.aarch64-linux-musl.tar.gz"
+    sha256 = "17c7a1504954d5d64e746c197d13fdbccce619bada3ac4e2d4badd86ade0f6da"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.aarch64-linux-musl.tar.gz"
 [[isoband]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "50a0d506361d7f26cbd5811baed6155e18f8b3e5"
-libc = "glibc"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "8d2e545f8a91cd02ba496ff644d169ddab21f56743265a753fef44132b373b49"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.armv6l-linux-gnueabihf.tar.gz"
-[[isoband]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "432ed489239b2b5904e6ae5491955abe6b5f1d9d"
-libc = "musl"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "7b697b5d78d3b8123ede88d9c249f5c5523401c4ffdb4e531e4a33587b985302"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.armv6l-linux-musleabihf.tar.gz"
-[[isoband]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "808bafb66fa31c731d5e0b41ddf76f0b858f2d80"
-libc = "glibc"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "56c2e8917221c8b6fa659774bc0f69a9a73d7d82f750c3fae95dce82638fa015"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.armv7l-linux-gnueabihf.tar.gz"
-[[isoband]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "d703986de0553ce27cb5579f5a7bde078a495b0e"
-libc = "musl"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "73afabe83d459e2b79c0e1168ee3c5a3a27d205969e9797b5f5ebf638fd36c20"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.armv7l-linux-musleabihf.tar.gz"
-[[isoband]]
-arch = "i686"
-git-tree-sha1 = "05a9248d69e6ace78b7e3496a34831c890712ecd"
-libc = "glibc"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "3a182fb697591c99e2f9447c72bd3277197a40cf6e21f38a099cf9352edc2ad4"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.i686-linux-gnu.tar.gz"
-[[isoband]]
-arch = "i686"
-git-tree-sha1 = "556b40ca59b18d234123617f699b2ee6b475a283"
-libc = "musl"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "06eedac1a2b561b0d4955498bab430423b83d9035072514ef6e7bf28832bded8"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.i686-linux-musl.tar.gz"
-[[isoband]]
-arch = "i686"
-git-tree-sha1 = "0f52f0c434965be44f7df94c78d33fba115c4fe7"
-os = "windows"
-
-    [[isoband.download]]
-    sha256 = "6d4b654d2d098c5f74892332ed9d2cefd0ef7634e895147129ba7330ad37a526"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.i686-w64-mingw32.tar.gz"
-[[isoband]]
-arch = "powerpc64le"
-git-tree-sha1 = "99c269f4173fedd5a3e47eb8a25fb205c723830e"
-libc = "glibc"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "0d2f370a739d149df559b5ca12fa3d12bd92e08235aba3389c6d95eefa23ecba"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.powerpc64le-linux-gnu.tar.gz"
-[[isoband]]
-arch = "x86_64"
-git-tree-sha1 = "afc05a0564fb7b5964b599e8d1f1598f58f8fd2f"
-os = "macos"
-
-    [[isoband.download]]
-    sha256 = "ab05a60c38a661619dcf7a0df7d43b4078c37b28886ae37d08bed62339120388"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.x86_64-apple-darwin.tar.gz"
-[[isoband]]
-arch = "x86_64"
-git-tree-sha1 = "3a1f12ca1fd67006181b7feea7943ac231f7c966"
-libc = "glibc"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "1aca580c96c6b17a22da149774fd05e79ea625fe3ec3f3e96e57d9a185eef5fc"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.x86_64-linux-gnu.tar.gz"
-[[isoband]]
-arch = "x86_64"
-git-tree-sha1 = "894af02cd3c9d9d319d5db3837359b7b7a926406"
-libc = "musl"
-os = "linux"
-
-    [[isoband.download]]
-    sha256 = "12b262cca66575f2dd6953e6cda2d76b6949fe2443ad5ed6c3c009ff4834ec94"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.x86_64-linux-musl.tar.gz"
-[[isoband]]
-arch = "x86_64"
-git-tree-sha1 = "83a9de7f69e0d1f4a202acf6950850756d540560"
+arch = "aarch64"
+git-tree-sha1 = "06a84ee4f63afd4088f05b35803366d8149170c5"
 os = "freebsd"
 
     [[isoband.download]]
-    sha256 = "0e188a6dc71ea8bfcedd63fb00b458b8539bb2d091020b31caa15ea3503e7ca7"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "47922864f8a370129d949f83a42a6d70f54c50ac47e4f94597711a3558ad5745"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.aarch64-unknown-freebsd.tar.gz"
 [[isoband]]
-arch = "x86_64"
-git-tree-sha1 = "8332461672c786b866c7ebba318406b38553e3a7"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "11605bc371920edaab4e98cc4af0ab1578d715c5"
+libc = "glibc"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "f14b1f80979fad22f0a0b99ee771241012bec55567e48f5d37f8705961ba9db1"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.armv6l-linux-gnueabihf.tar.gz"
+[[isoband]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e87f4e820b5970b6b1eb4d33c82106960bff9e36"
+libc = "musl"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "3d3c6fe8eb59d139d3968ee38cb21c7043ceff039f29ef602e355dc4dc5f35ed"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.armv6l-linux-musleabihf.tar.gz"
+[[isoband]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fc7d6a4c7a142eb0ac59b6c3f0be9271465e5e9f"
+libc = "glibc"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "eb2339bec8aeeae310f82189c2ab0de97adb896225abcf37f015ecd24c8ce8ba"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.armv7l-linux-gnueabihf.tar.gz"
+[[isoband]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5dc618188e06e210ef93b876a3fca68ad7a60c0f"
+libc = "musl"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "3a805359bec6bc2f9cee876a92b4cfedf5c36e368bfcff032edb781538c86608"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.armv7l-linux-musleabihf.tar.gz"
+[[isoband]]
+arch = "i686"
+git-tree-sha1 = "6d8e3a42ca810c7423ae2ffb37b0f7b8c9dd2af4"
+libc = "glibc"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "ba5bcc3c90d2f356194bdeeb1a8c8850334f19fa762b3e10b3aed23813bd7527"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.i686-linux-gnu.tar.gz"
+[[isoband]]
+arch = "i686"
+git-tree-sha1 = "d233ec628913492f0c93c45a7f34817f5ffd5cdc"
+libc = "musl"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "25a7667ca1bdf705fbf88b2bfd808495b9163cf1ef8ece017df69ac89c3bb732"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.i686-linux-musl.tar.gz"
+[[isoband]]
+arch = "i686"
+git-tree-sha1 = "992fa5a0cb5667b76a8e141cff157495a344112c"
 os = "windows"
 
     [[isoband.download]]
-    sha256 = "73a31a37d3db59473fe88ae3a894930347a43f23d49117f51b30fd01b6428a79"
-    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.3+0/isoband.v0.2.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8504e3a62adc559ce373cdc6ec81424bafc625198994b141ec6b77c159231a3d"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.i686-w64-mingw32.tar.gz"
+[[isoband]]
+arch = "powerpc64le"
+git-tree-sha1 = "70e0e910bdf50d5bc69b5f2a0756d8fba55aca0e"
+libc = "glibc"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "db59c1eccec1511ba7af5bb752352998e92f653232784663edc010cc4ea639d0"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.powerpc64le-linux-gnu.tar.gz"
+[[isoband]]
+arch = "riscv64"
+git-tree-sha1 = "8727a786a6806ee833d2a6d4ea179b56a1678585"
+libc = "glibc"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "e8916af6609a017b25ead2adf53489d9bfc22eecb2979837d6f783feb6457ed4"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.riscv64-linux-gnu.tar.gz"
+[[isoband]]
+arch = "x86_64"
+git-tree-sha1 = "dfd99cf3e2f0689ce784ee290092cbd072fdc66a"
+os = "macos"
+
+    [[isoband.download]]
+    sha256 = "7e48b0be5705e2b69aca8ddcf3e1cdd04e6c501d4c28d1c47adb01524ed1c622"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.x86_64-apple-darwin.tar.gz"
+[[isoband]]
+arch = "x86_64"
+git-tree-sha1 = "fea8d09b304d887377da1968a3a0a889640270e9"
+libc = "glibc"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "26e9deb5b349748cd1a5d87c6e6f7e11e3748ea4408393d57e33161de4856bfe"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.x86_64-linux-gnu.tar.gz"
+[[isoband]]
+arch = "x86_64"
+git-tree-sha1 = "0da909e96664d6abce3e2fdb811980d2e353fdfa"
+libc = "musl"
+os = "linux"
+
+    [[isoband.download]]
+    sha256 = "bdf10802e6ced1d649f398bda4a68c37fe985621be0a12dcc5a752ca7360b50f"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.x86_64-linux-musl.tar.gz"
+[[isoband]]
+arch = "x86_64"
+git-tree-sha1 = "b9829660f7060f6c9651aca96bed7e9920e2ca4d"
+os = "freebsd"
+
+    [[isoband.download]]
+    sha256 = "44b0158613b567790e780198d9f697850795bf00319c599da4a5b9c653675906"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.x86_64-unknown-freebsd.tar.gz"
+[[isoband]]
+arch = "x86_64"
+git-tree-sha1 = "49a8572b4a8c4da672a8494d2121c44f2dd71455"
+os = "windows"
+
+    [[isoband.download]]
+    sha256 = "cbb0567e7f04a65ec83be2cc3c76383bd01d844489734e83e76726294be6a683"
+    url = "https://github.com/JuliaBinaryWrappers/isoband_jll.jl/releases/download/isoband-v0.2.4+0/isoband.v0.2.4.x86_64-w64-mingw32.tar.gz"
